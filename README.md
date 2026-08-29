@@ -13,3 +13,6 @@ The project is continuously improved through development, debugging, testing, do
 ## License
 
 This project is licensed under the MIT License.
+## Status
+
+This project is currently under active development.
